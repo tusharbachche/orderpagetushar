@@ -25,6 +25,8 @@ public class Base {
 			 Utility.implicitWait(1000, driver);
 			 
 			 Reporter.log("launching browser", true);
+			 
+			 //comment1
 	}
 	 
 
